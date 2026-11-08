@@ -11,5 +11,5 @@ hostnames:
   - private-ip-address
 
 keyed_groups:
-  - key: tag.Name
+  - key: tags.Name
     prefix: roboshop   
