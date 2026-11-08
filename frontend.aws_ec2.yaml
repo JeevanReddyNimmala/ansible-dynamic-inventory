@@ -8,6 +8,6 @@ filters:
   tag:Name: roboshop-frontend
 
 hostnames:
-- private-ip-address 
+- private-ip-address
 
 
